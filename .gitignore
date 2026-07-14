@@ -15,6 +15,12 @@ dist-ssr
 .tanstack/**
 .nitro
 *.local
+.env
+.env.local
+*.sqlite
+*.db
+config/database.php
+/vendor
 
 # Wrangler / Cloudflare
 .wrangler/
